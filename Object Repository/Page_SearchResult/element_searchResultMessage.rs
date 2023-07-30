@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>element_SearchResultMessage</name>
+   <tag></tag>
+   <elementGuidId>0ad1ea47-2c11-4bac-940a-eb769cc2e391</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-tdjdw3-0.eyJzoR.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = '클리어런스' or . = '‘클리어런스’')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '‘클리어런스’에 대한 24,910개의 통합 검색결과입니다.' or . = '‘클리어런스’에 대한 24,910개의 통합 검색결과입니다.')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c0b2c30-e232-467d-af47-9a3d6fe162fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-tdjdw3-0 eyJzoR text</value>
+      <webElementGuid>257eec61-223b-4627-b42d-beb9faa2cbcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>28</value>
+      <webElementGuid>7b2c2b32-3105-48fa-b09a-ca008edc837f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#000</value>
+      <webElementGuid>db8e9d8f-dc7a-466d-acee-c7bf814e62ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>‘클리어런스’에 대한 24,910개의 통합 검색결과입니다.</value>
+      <webElementGuid>eec52854-7202-410e-abba-d7d1dc7070ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;content&quot;]/div[@class=&quot;sc-11j4cof-0 eNaNsd&quot;]/div[@class=&quot;sc-1nsjl0c-0 eywAbX search-result-title box search-result-title&quot;]/span[@class=&quot;sc-tdjdw3-0 eyJzoR text&quot;]</value>
+      <webElementGuid>a4793c6f-c03c-4d72-a512-32fa47049151</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='container']/div/div/div/span</value>
+      <webElementGuid>518efd50-a1e2-4a6c-b916-d984524e0412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CATEGORY'])[1]/following::span[2]</value>
+      <webElementGuid>31df6e59-0256-4776-9ce7-ff6664b0dfe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BEST'])[1]/following::span[3]</value>
+      <webElementGuid>44a64b96-32b7-4784-a222-1259aad3e7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상품'])[1]/preceding::span[3]</value>
+      <webElementGuid>f00b8e48-bbf3-42b9-b94a-8a2432420703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='에 대한']/parent::*</value>
+      <webElementGuid>54b0bf3a-d965-43b5-9bad-a7b59747681f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/span</value>
+      <webElementGuid>ccc08f40-d21b-41d1-a420-86ab31f83ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '클리어런스' or . = '‘클리어런스’')]</value>
+      <webElementGuid>ff003cc6-fb90-4d61-8f42-366ce72607ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
