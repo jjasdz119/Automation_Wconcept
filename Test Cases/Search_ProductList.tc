@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Wconcept_Search</name>
+   <name>Search_ProductList</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>278c4668-fda4-4d26-a9c8-3b06f691f40e</testCaseGuid>
+   <testCaseGuid>402e3437-2f3d-4e7b-acbc-a4f397c51da4</testCaseGuid>
 </TestCaseEntity>

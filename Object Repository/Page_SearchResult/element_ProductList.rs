@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>element_ProductList</name>
+   <tag></tag>
+   <elementGuidId>09c9351d-a0cd-4dfb-a758-259c8dbde46c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-v3pw56-0.hBeWpF.search-results-sortingbar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;product&quot;]/div[3]/div/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55ade535-a4ce-4f39-8416-02d06191c368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-v3pw56-0 hBeWpF search-results-sortingbar</value>
+      <webElementGuid>81cfaf56-d239-489c-98f4-11521e222ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>품절제외추천순</value>
+      <webElementGuid>a74d1e17-0e48-4950-9fc4-9360f4519524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product&quot;)/div[@class=&quot;sc-v3pw56-0 hBeWpF search-results-sortingbar&quot;]</value>
+      <webElementGuid>9847f38d-fc53-4e76-8a5b-9d58357ba024</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;product&quot;]/div[3]/div/div[1]</value>
+      <webElementGuid>0ea73fd2-b5ad-4bd3-86d5-9f32025bb9c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='브랜드'])[1]/following::div[1]</value>
+      <webElementGuid>0e8cc06b-da0e-432d-a286-bd93cb86cdca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='할인/혜택'])[1]/following::div[1]</value>
+      <webElementGuid>ad634ca6-662e-4d10-a31c-66d2c2f2fc96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>58c55119-347a-4463-b26a-cad32a7dd92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '품절제외추천순' or . = '품절제외추천순')]</value>
+      <webElementGuid>deddca1f-5767-4ac7-b2e4-e93005844419</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

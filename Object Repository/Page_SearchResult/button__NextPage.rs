@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__NextPage</name>
+   <tag></tag>
+   <elementGuidId>11026919-3c48-47a4-b3a2-b9af6ffbbc2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[163]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6b153d01-4965-47af-93f3-6ba34b0da21f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-16sqvmz-0 hajYLp btn</value>
+      <webElementGuid>1120d477-f2ec-4203-885f-5914126cc7e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1176150b-39a8-4a14-a650-616cd295d923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product&quot;)/nav[@class=&quot;sc-1bf0age-0 jYNMTj wrap-pagination&quot;]/ul[@class=&quot;pagination&quot;]/li[@class=&quot;btn-next&quot;]/button[@class=&quot;sc-16sqvmz-0 hajYLp btn&quot;]</value>
+      <webElementGuid>1b64a7b3-ca05-45e7-9a0f-d6757e4eec73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[163]</value>
+      <webElementGuid>b3569bca-4605-411a-91ec-2a7c5f4281e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product']/nav/ul/li[13]/button</value>
+      <webElementGuid>b5b6d0cb-5e5b-4259-9fea-b31f75debbad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='셀럽착용'])[9]/following::button[14]</value>
+      <webElementGuid>2e19e29b-6860-45c7-9de5-dbff192717a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(122)'])[1]/following::button[14]</value>
+      <webElementGuid>e1788362-a830-4cba-bc53-df8cd92509c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='회사소개'])[1]/preceding::button[4]</value>
+      <webElementGuid>12c85f4f-0ad0-4cac-b367-020d39473e83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='입점상담'])[1]/preceding::button[4]</value>
+      <webElementGuid>76a33d8e-f025-4b2b-a9d6-c9ca0c133f17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[13]/button</value>
+      <webElementGuid>5cef878f-7cee-4cca-a798-94f1ab0a7ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>f11efff0-94e2-4330-8f60-40b88ad4a0f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

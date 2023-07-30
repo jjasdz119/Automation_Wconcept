@@ -33,5 +33,3 @@ WebUI.verifyElementPresent(findTestObject('Page_SearchResult/element_SearchResul
 '검색결과 메시지에 입력 키워드가 표시 되는지 확인한다.'
 WebUI.verifyElementText(findTestObject('Page_SearchResult/element_SearchKeyword'), '‘클리어런스’')
 
-WebUI.closeBrowser()
-
