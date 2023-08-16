@@ -17,11 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-'글로벌헤더 영역에서 Logout 버튼을 클릭한다.'
-WebUI.click(findTestObject('page_Login/globalHeader_logout'))
+WebUI.openBrowser('')
 
-'글로벌헤더 영역에서 Login 버튼을 확인한다.'
-WebUI.verifyElementPresent(findTestObject('page_Login/globalHeader_login'), 0)
+WebUI.navigateToUrl('https://www.wconcept.co.kr/')
 
-WebUI.closeBrowser()
+'검색창에 키워드를 입력한다.'
+WebUI.setText(findTestObject('Page_Main/input_text'), '클리어런스')
+
+'검색창에 돋보기 버튼을 클릭한다.'
+WebUI.click(findTestObject('Page_Main/button_Search'))
+
+'검색결과 페이지에 검색결과 메시지가 표시 되는지 확인한다.'
+WebUI.verifyElementPresent(findTestObject('Page_SearchResult/element_SearchResultMessage'), 0)
+
+'검색결과 메시지에 입력 키워드가 표시 되는지 확인한다.'
+WebUI.verifyElementText(findTestObject('Page_SearchResult/element_SearchKeyword'), '‘클리어런스’')
 

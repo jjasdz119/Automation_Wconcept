@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_search</name>
+   <name>button_Search</name>
    <tag></tag>
    <elementGuidId>d8e38877-201f-4f85-88c0-831ea149a3db</elementGuidId>
    <selectorCollection>

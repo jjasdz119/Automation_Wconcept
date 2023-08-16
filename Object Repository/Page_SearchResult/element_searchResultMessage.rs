@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>element_searchResultMessage</name>
+   <name>element_SearchResultMessage</name>
    <tag></tag>
    <elementGuidId>0ad1ea47-2c11-4bac-940a-eb769cc2e391</elementGuidId>
    <selectorCollection>
