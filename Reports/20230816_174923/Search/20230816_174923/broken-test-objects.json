@@ -9,6 +9,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_SearchResult/button__NextPage",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "CSS",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027회사소개\u0027])[1]/preceding::button[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20230816_174923"
     }
   ]
 }
