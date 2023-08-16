@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.wconcept.co.kr/')
 
-'글로벌헤더 영역에서 Login 버튼을 클릭한다.'
+'글로벌 헤더에서 Login 버튼을 클릭한다.'
 WebUI.click(findTestObject('Object Repository/page_Login/globalHeader_login'))
 
 '계정 ID를 입력한다.'
@@ -33,6 +33,6 @@ WebUI.setEncryptedText(findTestObject('Object Repository/page_Login/input__accou
 '로그인 버튼을 클릭한다.'
 WebUI.click(findTestObject('Object Repository/page_Login/button_submit'))
 
-'글로벌헤더 영역에서 Logout 버튼을 확인한다.'
+'글로벌 헤더에서 Logout 버튼을 확인한다.'
 WebUI.verifyElementPresent(findTestObject('page_Login/globalHeader_logout'), 0)
 
