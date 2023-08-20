@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_title</name>
+   <tag></tag>
+   <elementGuidId>d73b560a-eb9a-4a19-af29-f5015bac881c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='container']/div[3]/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>14f6ae30-1945-4d98-a818-7155d72ebf17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>회원정보 수정</value>
+      <webElementGuid>9d0bdce4-52ac-4659-880a-e3d89b8a6add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;mypage&quot;]/div[@class=&quot;table_title contents&quot;]/h3[1]</value>
+      <webElementGuid>00ec3ff2-cfb6-4289-8252-a87d632db26f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='container']/div[3]/div/h3</value>
+      <webElementGuid>dde8e4b1-ef85-4bf2-9859-5ca59265d670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='리뷰'])[1]/following::h3[1]</value>
+      <webElementGuid>ac481b07-b69f-4969-bb4f-f56840b6dea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상품 Q&amp;A'])[1]/following::h3[1]</value>
+      <webElementGuid>a1444ef1-71b3-4455-8bc0-fec79a811f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='가려진 정보보기'])[1]/preceding::h3[1]</value>
+      <webElementGuid>f8e73191-6e8a-4cab-88e5-ce3487fef0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>b27dd0bd-38ae-474b-9afb-36acf1ce5980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '회원정보 수정' or . = '회원정보 수정')]</value>
+      <webElementGuid>38d31cea-ede7-487e-9425-9c4e222a9a0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

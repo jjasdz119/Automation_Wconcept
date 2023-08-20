@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_submit</name>
+   <tag></tag>
+   <elementGuidId>c68be871-ac7c-4588-a8d6-d2549f0cb9f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick='return WCKMyPageMember.AuthSubmit();']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.black.small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>900e7a83-3d83-4e16-91ac-5abc1080ec31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn black small</value>
+      <webElementGuid>38fa0cec-d137-4397-8b47-d7942186fbbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>확인</value>
+      <webElementGuid>f44381ea-2518-4cdd-a71b-e5282c4b0f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return WCKMyPageMember.AuthSubmit();</value>
+      <webElementGuid>951b469d-6122-45f0-94bc-c7abc2ffc66f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>확인</value>
+      <webElementGuid>555d3e87-586d-4ef8-a084-f3d3fb02070c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmPwCheck&quot;)/div[@class=&quot;wrap_pwd&quot;]/div[@class=&quot;bx_inp&quot;]/button[@class=&quot;btn black small&quot;]</value>
+      <webElementGuid>103f6e48-6523-4504-b866-5e2b56e1802c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='return WCKMyPageMember.AuthSubmit();']</value>
+      <webElementGuid>6f141bf5-7a67-4e7e-856e-d5aff64de7de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmPwCheck']/div[2]/div/button</value>
+      <webElementGuid>44e79109-2117-4045-85c4-782b8e628019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='비밀번호 확인'])[1]/following::button[1]</value>
+      <webElementGuid>0bf9e75d-202b-44b2-9292-96f38bf554d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='리뷰'])[1]/following::button[2]</value>
+      <webElementGuid>0423526b-7718-4a90-98d0-658b8863ed37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='회사소개'])[1]/preceding::button[1]</value>
+      <webElementGuid>2b9b7be7-f7d2-4075-9adf-faf5ce536288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='입점상담'])[1]/preceding::button[1]</value>
+      <webElementGuid>d7ca5c45-64c8-4356-90a9-d2b4773a5b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='확인']/parent::*</value>
+      <webElementGuid>8f4129b8-c983-4c68-94fe-3cc776141823</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/button</value>
+      <webElementGuid>469c89cb-3430-401b-91d6-0389195da536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = '확인' and (text() = '확인' or . = '확인')]</value>
+      <webElementGuid>7d705395-e2b6-4f83-b3c8-2c56733ce528</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

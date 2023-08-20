@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+UpdateInfo,Chrome 115.0.0.0,,,2023-08-20 17:27:14,2023-08-20 17:28:58,1m - 44.203s,PASSED
+,,,,,,,
+Test Cases/test_Login/Account_Login,Chrome 115.0.0.0,,,2023-08-20 17:27:15,2023-08-20 17:28:37,1m - 22.410s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-20 17:27:15,2023-08-20 17:27:24,9.258s,PASSED
+"navigateToUrl(""https://www.wconcept.co.kr/"")",Chrome 115.0.0.0,,,2023-08-20 17:27:24,2023-08-20 17:27:59,35.124s,PASSED
+"click(findTestObject(""Object Repository/page_Login/globalHeader_login""))",Chrome 115.0.0.0,글로벌 헤더에서 Login 버튼을 클릭한다.,,2023-08-20 17:27:59,2023-08-20 17:28:18,18.703s,PASSED
+"setText(findTestObject(""page_Login/input__accountId""), ""asdz119@naver.com"")",Chrome 115.0.0.0,계정 ID를 입력한다.,,2023-08-20 17:28:18,2023-08-20 17:28:19,1.274s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/page_Login/input__accountPassword""), ""kkEFCHjSSyhpCGd7KRSe/g=="")",Chrome 115.0.0.0,계정 패스워드를 입력한다.,,2023-08-20 17:28:19,2023-08-20 17:28:20,0.847s,PASSED
+"click(findTestObject(""Object Repository/page_Login/button_submit""))",Chrome 115.0.0.0,로그인 버튼을 클릭한다.,,2023-08-20 17:28:20,2023-08-20 17:28:37,16.495s,PASSED
+"verifyElementPresent(findTestObject(""page_Login/globalHeader_logout""), 0)",Chrome 115.0.0.0,글로벌 헤더에서 Logout 버튼을 확인한다.,,2023-08-20 17:28:37,2023-08-20 17:28:37,0.358s,PASSED
+,,,,,,,
+Test Cases/test_MyProfile/MyProfile_UpdateInfo,Chrome 115.0.0.0,,,2023-08-20 17:28:37,2023-08-20 17:28:58,21.442s,PASSED
+"click(findTestObject(""page_MyProfile/globalHeader_myProfile""))",Chrome 115.0.0.0,,,2023-08-20 17:28:37,2023-08-20 17:28:43,5.717s,PASSED
+"verifyElementPresent(findTestObject(""page_MyProfile/element_pageTitle""), 0)",Chrome 115.0.0.0,,,2023-08-20 17:28:43,2023-08-20 17:28:43,0.473s,PASSED
+"click(findTestObject(""page_MyProfile/element_editMyProfile""))",Chrome 115.0.0.0,,,2023-08-20 17:28:43,2023-08-20 17:28:53,9.236s,PASSED
+"setText(findTestObject(""page_MyProfile/input_accountPassword""), ""Tmzkdlzx1!"")",Chrome 115.0.0.0,,,2023-08-20 17:28:53,2023-08-20 17:28:54,1.303s,PASSED
+"click(findTestObject(""page_MyProfile/button_submit""))",Chrome 115.0.0.0,,,2023-08-20 17:28:54,2023-08-20 17:28:57,2.976s,PASSED
+"verifyElementPresent(findTestObject(""page_MyProfile/h3_title""), 0)",Chrome 115.0.0.0,,,2023-08-20 17:28:57,2023-08-20 17:28:58,0.559s,PASSED
+"click(findTestObject(""page_MyProfile/button_edit""))",Chrome 115.0.0.0,,,2023-08-20 17:28:58,2023-08-20 17:28:58,0.944s,PASSED

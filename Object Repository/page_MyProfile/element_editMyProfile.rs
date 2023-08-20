@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>element_editMyProfile</name>
+   <tag></tag>
+   <elementGuidId>5de14862-3c51-4b95-b062-6efc27ef21cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='snb']/div[2]/div/ul[5]/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul:nth-of-type(5) > li.active > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bf042f8e-bad4-4d34-bfde-63f118421baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/MyPage/MemberInfo</value>
+      <webElementGuid>c459127c-6de8-42a7-b9bc-73fb777d1a2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>회원정보 수정</value>
+      <webElementGuid>1f0c8b9e-8ff2-4f41-bbbb-b54514657e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;snb&quot;)/div[@class=&quot;snb_sub&quot;]/div[@class=&quot;inner&quot;]/ul[5]/li[@class=&quot;active&quot;]/a[1]</value>
+      <webElementGuid>319802c9-d2d3-46d7-8291-6cc463b06a27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='snb']/div[2]/div/ul[5]/li/a</value>
+      <webElementGuid>f8ede12d-cc17-4365-9f29-aeb56956db3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'회원정보 수정')]</value>
+      <webElementGuid>9bff9f8f-3bc2-4420-a864-fcce4ae5a60b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='상품권'])[1]/following::a[1]</value>
+      <webElementGuid>d4682dff-0028-48d4-8c3b-0b0e2172d493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='예치금'])[1]/following::a[2]</value>
+      <webElementGuid>df07abd9-0760-4c69-9da0-1f2ce411ec42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='사이즈/뷰티 정보'])[1]/preceding::a[1]</value>
+      <webElementGuid>c54ce497-d780-4107-8c4e-54db5480144c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SNS계정연결 설정'])[1]/preceding::a[2]</value>
+      <webElementGuid>8f514dc5-dd14-4c09-b03f-3e6a0c53693d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/MyPage/MemberInfo')])[3]</value>
+      <webElementGuid>a82cd57f-bfc6-4e1e-962c-8d1cfd6aa4a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul[5]/li/a</value>
+      <webElementGuid>f3d099c8-a253-4f9a-bbff-380f0577210e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/MyPage/MemberInfo' and (text() = '회원정보 수정' or . = '회원정보 수정')]</value>
+      <webElementGuid>dd063ef0-544c-46f4-a878-8ec20cccb601</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

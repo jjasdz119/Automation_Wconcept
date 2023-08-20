@@ -19,17 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.wconcept.co.kr/')
+WebUI.navigateToUrl('https://www.wconcept.co.kr/Member/Login?rUrl=https%3A%2F%2Fwww.wconcept.co.kr%2F')
 
-'검색창에 키워드를 입력한다.'
-WebUI.setText(findTestObject('page_Home/input_text'), '클리어런스')
+WebUI.click(findTestObject('Object Repository/page_MyProfile/globalHeader_myProfile'))
 
-'검색창에 돋보기 버튼을 클릭한다.'
-WebUI.click(findTestObject('page_Home/button_Search'))
+WebUI.click(findTestObject('Object Repository/page_MyProfile/element_pageTitle'))
 
-'검색결과 페이지에 검색결과 메시지가 표시 되는지 확인한다.'
-WebUI.verifyElementPresent(findTestObject('page_SearchResult/element_SearchResultMessage'), 0)
+WebUI.click(findTestObject('null'))
 
-'검색결과 메시지에 입력 키워드가 표시 되는지 확인한다.'
-WebUI.verifyElementText(findTestObject('page_SearchResult/element_SearchKeyword'), '‘클리어런스’')
+WebUI.click(findTestObject('Object Repository/page_MyProfile/element_editMyProfile'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/page_MyProfile/input_accountPassword'), 'kkEFCHjSSyhpCGd7KRSe/g==')
+
+WebUI.click(findTestObject('Object Repository/page_MyProfile/button_submit'))
+
+WebUI.click(findTestObject('Object Repository/page_MyProfile/h3_title'))
+
+WebUI.click(findTestObject('Object Repository/page_MyProfile/button_edit'))
 

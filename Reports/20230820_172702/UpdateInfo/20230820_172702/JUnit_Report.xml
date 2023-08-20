@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="UpdateInfo" time="104.203" tests="2" failures="0" errors="0">
+   <testsuite name="UpdateInfo" tests="2" failures="0" errors="0" time="104.203" skipped="0" timestamp="2023-08-20 17:27:14" hostname="sangmoon.choi - localhost" id="Test Suites/UpdateInfo">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/sangmoon.choi/git/Automation_Wconcept/Reports/20230820_172702/UpdateInfo/20230820_172702"/>
+         <property name="logFiles" value="/Users/sangmoon.choi/git/Automation_Wconcept/Reports/20230820_172702/UpdateInfo/20230820_172702/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="sangmoon.choi - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 115.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="4f9e7dc90e7557de0988ac340a097d5b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/test_Login/Account_Login" time="82.41" classname="Test Cases/test_Login/Account_Login" status="PASSED">
+         <system-out><![CDATA[2023-08-20 17:27:15 - [TEST_CASE][PASSED] - Test Cases/test_Login/Account_Login: Test Cases/test_Login/Account_Login
+
+2023-08-20 17:27:15 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-08-20 17:27:15 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-20 17:27:15 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-20 17:27:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-08-20 17:27:24 - [TEST_STEP][PASSED] - navigateToUrl("https://www.wconcept.co.kr/"): Navigate to 'https://www.wconcept.co.kr/' successfully
+
+2023-08-20 17:27:59 - [MESSAGE][PASSED] - Navigate to 'https://www.wconcept.co.kr/' successfully
+
+2023-08-20 17:27:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/page_Login/globalHeader_login")): Object: 'Object Repository/page_Login/globalHeader_login' is clicked on
+
+2023-08-20 17:28:18 - [MESSAGE][PASSED] - Object: 'Object Repository/page_Login/globalHeader_login' is clicked on
+
+2023-08-20 17:28:18 - [TEST_STEP][PASSED] - setText(findTestObject("page_Login/input__accountId"), "asdz119@naver.com"): Text 'asdz119@naver.com' is set on object 'Object Repository/page_Login/input__accountId'
+
+2023-08-20 17:28:19 - [MESSAGE][PASSED] - Text 'asdz119@naver.com' is set on object 'Object Repository/page_Login/input__accountId'
+
+2023-08-20 17:28:19 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/page_Login/input__accountPassword"), "kkEFCHjSSyhpCGd7KRSe/g=="): Text ****** has been set on object 'Object Repository/page_Login/input__accountPassword'
+
+2023-08-20 17:28:20 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/page_Login/input__accountPassword'
+
+2023-08-20 17:28:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/page_Login/button_submit")): Object: 'Object Repository/page_Login/button_submit' is clicked on
+
+2023-08-20 17:28:37 - [MESSAGE][PASSED] - Object: 'Object Repository/page_Login/button_submit' is clicked on
+
+2023-08-20 17:28:37 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("page_Login/globalHeader_logout"), 0): Object 'Object Repository/page_Login/globalHeader_logout' is present
+
+2023-08-20 17:28:37 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-08-20 17:28:37 - [MESSAGE][PASSED] - Object 'Object Repository/page_Login/globalHeader_logout' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/test_MyProfile/MyProfile_UpdateInfo" time="21.442" classname="Test Cases/test_MyProfile/MyProfile_UpdateInfo" status="PASSED">
+         <system-out><![CDATA[2023-08-20 17:28:37 - [TEST_CASE][PASSED] - Test Cases/test_MyProfile/MyProfile_UpdateInfo: Test Cases/test_MyProfile/MyProfile_UpdateInfo
+
+2023-08-20 17:28:37 - [TEST_STEP][PASSED] - click(findTestObject("page_MyProfile/globalHeader_myProfile")): Object: 'Object Repository/page_MyProfile/globalHeader_myProfile' is clicked on
+
+2023-08-20 17:28:43 - [MESSAGE][PASSED] - Object: 'Object Repository/page_MyProfile/globalHeader_myProfile' is clicked on
+
+2023-08-20 17:28:43 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("page_MyProfile/element_pageTitle"), 0): Object 'Object Repository/page_MyProfile/element_pageTitle' is present
+
+2023-08-20 17:28:43 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-08-20 17:28:43 - [MESSAGE][PASSED] - Object 'Object Repository/page_MyProfile/element_pageTitle' is present
+
+2023-08-20 17:28:43 - [TEST_STEP][PASSED] - click(findTestObject("page_MyProfile/element_editMyProfile")): Object: 'Object Repository/page_MyProfile/element_editMyProfile' is clicked on
+
+2023-08-20 17:28:53 - [MESSAGE][PASSED] - Object: 'Object Repository/page_MyProfile/element_editMyProfile' is clicked on
+
+2023-08-20 17:28:53 - [TEST_STEP][PASSED] - setText(findTestObject("page_MyProfile/input_accountPassword"), "Tmzkdlzx1!"): Text 'Tmzkdlzx1!' is set on object 'Object Repository/page_MyProfile/input_accountPassword'
+
+2023-08-20 17:28:54 - [MESSAGE][PASSED] - Text 'Tmzkdlzx1!' is set on object 'Object Repository/page_MyProfile/input_accountPassword'
+
+2023-08-20 17:28:54 - [TEST_STEP][PASSED] - click(findTestObject("page_MyProfile/button_submit")): Object: 'Object Repository/page_MyProfile/button_submit' is clicked on
+
+2023-08-20 17:28:57 - [MESSAGE][PASSED] - Object: 'Object Repository/page_MyProfile/button_submit' is clicked on
+
+2023-08-20 17:28:57 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("page_MyProfile/h3_title"), 0): Object 'Object Repository/page_MyProfile/h3_title' is present
+
+2023-08-20 17:28:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-08-20 17:28:58 - [MESSAGE][PASSED] - Object 'Object Repository/page_MyProfile/h3_title' is present
+
+2023-08-20 17:28:58 - [TEST_STEP][PASSED] - click(findTestObject("page_MyProfile/button_edit")): Object: 'Object Repository/page_MyProfile/button_edit' is clicked on
+
+2023-08-20 17:28:58 - [MESSAGE][PASSED] - Object: 'Object Repository/page_MyProfile/button_edit' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-20 17:27:14 - [TEST_SUITE][PASSED] - UpdateInfo: Test Cases/test_MyProfile/MyProfile_UpdateInfo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

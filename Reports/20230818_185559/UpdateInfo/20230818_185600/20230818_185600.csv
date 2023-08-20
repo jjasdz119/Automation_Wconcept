@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+UpdateInfo,Chrome 115.0.0.0,,,2023-08-18 18:56:03,2023-08-18 18:58:47,2m - 43.466s,PASSED
+,,,,,,,
+Test Cases/test_Login/Account_Login,Chrome 115.0.0.0,,,2023-08-18 18:56:04,2023-08-18 18:58:04,2m - 0.448s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-18 18:56:04,2023-08-18 18:56:12,7.916s,PASSED
+"navigateToUrl(""https://www.wconcept.co.kr/"")",Chrome 115.0.0.0,,,2023-08-18 18:56:12,2023-08-18 18:56:48,35.743s,PASSED
+"click(findTestObject(""Object Repository/page_Login/globalHeader_login""))",Chrome 115.0.0.0,글로벌 헤더에서 Login 버튼을 클릭한다.,,2023-08-18 18:56:48,2023-08-18 18:57:07,19.780s,PASSED
+"setText(findTestObject(""page_Login/input__accountId""), ""asdz119@naver.com"")",Chrome 115.0.0.0,계정 ID를 입력한다.,,2023-08-18 18:57:07,2023-08-18 18:57:09,1.549s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/page_Login/input__accountPassword""), ""kkEFCHjSSyhpCGd7KRSe/g=="")",Chrome 115.0.0.0,계정 패스워드를 입력한다.,,2023-08-18 18:57:09,2023-08-18 18:57:11,1.759s,PASSED
+"click(findTestObject(""Object Repository/page_Login/button_submit""))",Chrome 115.0.0.0,로그인 버튼을 클릭한다.,,2023-08-18 18:57:11,2023-08-18 18:58:00,49.290s,PASSED
+"verifyElementPresent(findTestObject(""page_Login/globalHeader_logout""), 0)",Chrome 115.0.0.0,글로벌 헤더에서 Logout 버튼을 확인한다.,,2023-08-18 18:58:00,2023-08-18 18:58:04,4.045s,PASSED
+,,,,,,,
+Test Cases/test_MyProfile/MyProfile_updateInfo,Chrome 115.0.0.0,,,2023-08-18 18:58:04,2023-08-18 18:58:47,42.678s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-18 18:58:04,2023-08-18 18:58:04,0.003s,NOT_RUN
+"navigateToUrl(""https://www.wconcept.co.kr/Member/Login?rUrl=https%3A%2F%2Fwww.wconcept.co.kr%2F"")",Chrome 115.0.0.0,,,2023-08-18 18:58:04,2023-08-18 18:58:04,0.001s,NOT_RUN
+"click(findTestObject(""Object Repository/page_MyPage/globalHeader_myProfile""))",Chrome 115.0.0.0,,,2023-08-18 18:58:04,2023-08-18 18:58:31,26.383s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/page_MyPage/element_pageTitle""), 0)",Chrome 115.0.0.0,,,2023-08-18 18:58:31,2023-08-18 18:58:33,1.902s,PASSED
+"click(findTestObject(""Object Repository/page_MyPage/element_editMyProfile""))",Chrome 115.0.0.0,,,2023-08-18 18:58:33,2023-08-18 18:58:36,3.674s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/page_MyPage/input_accountPassword""), ""kkEFCHjSSyhpCGd7KRSe/g=="")",Chrome 115.0.0.0,,,2023-08-18 18:58:36,2023-08-18 18:58:37,0.879s,PASSED
+"click(findTestObject(""Object Repository/page_MyPage/button_submit""))",Chrome 115.0.0.0,,,2023-08-18 18:58:37,2023-08-18 18:58:43,6.275s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/page_MyPage/h3_title""), 0)",Chrome 115.0.0.0,,,2023-08-18 18:58:43,2023-08-18 18:58:44,0.640s,PASSED
+"click(findTestObject(""Object Repository/page_MyPage/button_edit""))",Chrome 115.0.0.0,,,2023-08-18 18:58:44,2023-08-18 18:58:47,2.683s,PASSED
